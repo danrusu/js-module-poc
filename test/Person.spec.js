@@ -3,7 +3,6 @@ import { expect } from 'chai';
 
 import Person, { isPerson } from '../src/Person.js';
 import * as Person1 from '../src/Person.js';
-import exp from 'node:constants';
 
 describe('Module test suite', () => {
   it('test static module import', () => {
