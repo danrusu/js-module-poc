@@ -1,2 +1,9 @@
 # js-module-poc
-practice JS modules
+
+practice JS
+
+```bash
+npm install
+
+npm test
+```
